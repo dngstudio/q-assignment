@@ -1,4 +1,4 @@
-# Movie Plugin
+# Q Assignment
 
 [![GitHub license](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/dngstudio/q-assignment/LICENSE)
 
