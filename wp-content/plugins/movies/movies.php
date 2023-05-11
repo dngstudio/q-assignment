@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Movies
- * Description: A WordPress plugin for managing movies.
+ * Description: A plugin for managing movies.
  * Version: 1.0.0
  * Author: Ivan Djukic
  */
